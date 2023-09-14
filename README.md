@@ -17,4 +17,6 @@ Sua função é explicar e bibliografar a vida e história de Steve Jobs, mas de
 ## Tecnologia utilizadas
 
 No templete de site pego no acervolima.com foi usado HTML 5 e CSS 3.  
+
+## Referência
 * [Alura](https://www.alura.com.br/artigos/escrever-bom-readme)
