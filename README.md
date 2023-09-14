@@ -1,4 +1,4 @@
-# Site sobre Steve Jobs
+## Site sobre Steve Jobs
 
 Informações sobre o site:
 
@@ -13,3 +13,8 @@ Steve Jobs morreu em 5 de outubro de 2011 aos 56 anos, vítima de um câncer pâ
 ## Função 
 
 Sua função é explicar e bibliografar a vida e história de Steve Jobs, mas de uma forma facil e relevante, um site complexo mas facil de entender.
+
+## Tecnologia utilizadas
+
+No templete de site pego no acervolima.com foi usado HTML 5 e CSS 3.  
+* [Alura](https://www.alura.com.br/artigos/escrever-bom-readme)
