@@ -19,4 +19,4 @@ Sua função é explicar e bibliografar a vida e história de Steve Jobs, mas de
 No templete de site pego no acervolima.com foi usado HTML 5 e CSS 3.  
 
 ## Referência
-* [Alura](https://www.alura.com.br/artigos/escrever-bom-readme)
+* [Alura](https://www.alura.com.br/artigos/escrever-bom-readme) - Como escrever um README incrível no seu Github
