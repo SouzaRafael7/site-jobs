@@ -12,7 +12,7 @@ Steve Jobs morreu em 5 de outubro de 2011 aos 56 anos, vítima de um câncer pâ
 
 ## Função 
 
-Sua função é explicar e bibliografar a vida e história de Steve Jobs, mas de uma forma facil e relevante, um site complexo mas facil de entender.
+Sua função é explicar e bibliografar a vida e história de Steve Jobs, mas de uma forma facil e relevante, um site complexo mas facil de entender. Mas além disso ajudar pessoas que estão começando a mexer com html e css, fazer uma tarefa e pegar um templete bom e pronto.
 
 ## Tecnologia utilizadas
 
