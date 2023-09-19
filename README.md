@@ -16,12 +16,11 @@ Sua função é explicar e bibliografar a vida e história de Steve Jobs, mas de
 
 ## Tecnologia utilizadas
 
-HTML 5
-CSS 3
-Git Hub
-Git Bash
-Teams
-VS code 
+* ``HTML5``
+* ``CSS3``
+* ``Navegador``
+* ``Microsoft Teams``
+* ``Vs code``
 
 ## Referência
 * [Alura](https://www.alura.com.br/artigos/escrever-bom-readme) - Como escrever um README incrível no seu Github
