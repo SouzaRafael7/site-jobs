@@ -16,7 +16,12 @@ Sua função é explicar e bibliografar a vida e história de Steve Jobs, mas de
 
 ## Tecnologia utilizadas
 
-No templete de site pego no acervolima.com foi usado HTML 5 e CSS 3.  
+HTML 5
+CSS 3
+Git Hub
+Git Bash
+Teams
+VS code 
 
 ## Referência
 * [Alura](https://www.alura.com.br/artigos/escrever-bom-readme) - Como escrever um README incrível no seu Github
