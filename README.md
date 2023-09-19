@@ -1,4 +1,4 @@
-<h1 align="center"> >## Site sobre Steve Jobs</h1>
+<h1 align="center"> Site sobre Steve Jobs</h1>
 
 Informações sobre o site:
 
